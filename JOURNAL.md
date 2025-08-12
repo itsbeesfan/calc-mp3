@@ -1,5 +1,5 @@
 ---
-Title: "calc mp3 (it's short for calculator! mp3)"
+Title: "calc (it's short for calculator!) mp3"
 Author: "tats morales / @beesfan on slack"
 Description: "a slick mp3 player that looks like a calculator!"
 Created On: "08/08/2025"
@@ -17,3 +17,11 @@ and stuff like that)
 i still got a long way to go!
 
 **Total Time Spent: 2h**
+
+# August 12 - start KiCad proyect, look for footprints, keep calculating costs.
+i'll admit, this is taking a while. it took some time to find the footprints, and i still haven't found the button footprints. it's late though, so i'll figure it out tomorrow. however, im now in budget and already have (almost) all of the footprints in KiCad. hopefully i'll get wiring soon!
+
+<img width="1262" height="885" alt="Screenshot 2025-08-12 at 12 42 16 AM" src="https://github.com/user-attachments/assets/7bf67090-9575-4411-9be5-767831f1d4f8" />
+
+**Time Spent Today: 34min**
+**Total Time Spent: 2h 34min**
